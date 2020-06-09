@@ -1,0 +1,9 @@
+1- Crio arquivos;
+2- Edito os arquivos;
+3- Dou um commit para criar a versão:
+git commit -m "Comentário sobre a atualização"
+
+ 
+
+ 
+
