@@ -1,7 +1,14 @@
 1- Crio arquivos;
 2- Edito os arquivos;
-3- Dou um commit para criar a versão:
-git commit -m "Comentário sobre a atualização"
+3- Uso o comando "git add <file>" ou "git add --all", para que o Git passe a ver esses arquivos;
+4- Verifico o "git status";
+5- Pode ser necessário os comandos:
+   git config --global user.email "you@example.com"
+   git config --global user.name "Seu nome"
+6- Dou um commit para criar a versão: git commit -m "Comentário sobre a atualização";
+7- Verifico o "git status";
+
+
 
  
 
