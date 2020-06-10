@@ -1,0 +1,17 @@
+1- Abra o Git Bash .
+2- Cole o texto abaixo, substituindo no seu endereço de e-mail do GitHub.
+	$ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+Isso cria uma nova chave ssh, usando o email fornecido como um rótulo.
+	> Generating public/private rsa key pair.
+3- Quando você for solicitado a "Digite um arquivo no qual salvar a chave", pressione Enter. Isso aceita o local padrão do arquivo.
+	> Enter a file in which to save the key (/c/Users/you/.ssh/id_rsa):[Press enter]
+4- Acesse o diretório C:\Users\User\.ssh
+5- Execute o comando: more id_rsa.pub.
+6- Copia e chave gerada.
+7- Acesse o GitHub, clique na sua foto e na opção "Settings".
+8- Clique em "SSH and GPC keys".
+9- Clique em "New SSH key".
+10- De uma descrição para a chave e cole a chave no campo indicado.
+
+
+
