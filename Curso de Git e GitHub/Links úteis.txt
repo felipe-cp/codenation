@@ -1,0 +1,2 @@
+Curso: https://www.udemy.com/course/git-e-github-para-iniciantes/
+Principais comandos: https://wethefoss.github.io/Git-Commands/
