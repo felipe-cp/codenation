@@ -1,0 +1,14 @@
+Aula 2 - Semana 2
+
+Nessa aula estamos criando o ambiente que será usado no curso no Anaconda (a minha máquina já possuia o Anaconda e Python, a instalação desses foi pulada).
+Veja os passos da criação do amiente:
+
+1- Abrir o CMD;
+2- Navegar até o diretório "codenation" usando o comando "CD";
+3- No diretório desejado criamos a pasta aceleradev_ds com o comando "mkdir aceleradev_ds";
+4- conda create -n aceleradev_ds
+5- conda activate aceleradev_ds
+6- conda install pip
+7- conda install streamlit
+8- pip install seaborn
+9- pip freeze > requirements.txt
