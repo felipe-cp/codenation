@@ -1,0 +1,6 @@
+Rodar o primeiro projeto
+
+1- cd codenation 
+2- cd aceleradev_ds
+3- conda activate aceleradev_ds
+4- streamlit run Projeto1.py
