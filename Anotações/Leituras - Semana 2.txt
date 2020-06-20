@@ -1,0 +1,8 @@
+https://r4ds.had.co.nz/tidy-data.html
+https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea
+https://medium.com/@shakasom/pandas-tutorial-essentials-of-data-science-in-pandas-library-9b0c81dbfcb1
+https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html
+https://realpython.com/python-pandas-tricks/
+https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77
+https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
+
