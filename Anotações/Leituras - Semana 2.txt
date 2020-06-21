@@ -5,4 +5,5 @@ https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html
 https://realpython.com/python-pandas-tricks/
 https://towardsdatascience.com/getting-started-to-data-analysis-with-python-pandas-with-titanic-dataset-a195ab043c77
 https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c
+https://medium.com/data-hackers/normalizar-ou-padronizar-as-vari%C3%A1veis-3b619876ccc9
 
